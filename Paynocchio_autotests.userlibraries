@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar" />
+  </library>
+  <library name="Maven: org.asynchttpclient:async-http-client:2.12.3">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-semconv:1.28.0-alpha">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.60.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec-socks:4.1.60.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:1.2.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.reactivestreams:reactive-streams:1.0.3">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-support/4.13.0/selenium-support-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.3">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5:5.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-junit-platform:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-junit-platform/2.24.0/allure-junit-platform-2.24.0.jar" />
+  </library>
+  <library name="Maven: com.codeborne:selenide-core:6.19.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/codeborne/selenide-core/6.19.1/selenide-core-6.19.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-java/4.13.0/selenium-java-4.13.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:32.1.3-jre">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/guava/guava/32.1.3-jre/guava-32.1.3-jre.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-launcher:1.9.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/junit/platform/junit-platform-launcher/1.9.2/junit-platform-launcher-1.9.2.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:2.8">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.13.0/selenium-chromium-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.checkerframework:checker-qual:3.37.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/checkerframework/checker-qual/3.37.0/checker-qual-3.37.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.13.0/selenium-chrome-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-java-commons:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-java-commons/2.24.0/allure-java-commons-2.24.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v116:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v116/4.13.0/selenium-devtools-v116-4.13.0.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.14.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-manager:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.13.0/selenium-manager-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.10.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/junit/platform/junit-platform-commons/1.10.0/junit-platform-commons-1.10.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.13.0/selenium-firefox-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.10.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.0/junit-jupiter-api-5.10.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v85:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.13.0/selenium-devtools-v85-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-simple:2.0.7">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.13.0/selenium-remote-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.10.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.0/junit-jupiter-engine-5.10.0.jar" />
+  </library>
+  <library name="Maven: dev.failsafe:failsafe:3.3.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-handler:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-handler/4.1.96.Final/netty-handler-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec-http:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-codec-http/4.1.96.Final/netty-codec-http-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-epoll:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-native-epoll/4.1.96.Final/netty-transport-native-epoll-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-classes-epoll:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.96.Final/netty-transport-classes-epoll-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-resolver:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-resolver/4.1.96.Final/netty-resolver-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-unix-common:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.96.Final/netty-transport-native-unix-common-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-context:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api-events:1.28.0-alpha">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar" />
+  </library>
+  <library name="Maven: org.asynchttpclient:async-http-client-netty-utils:2.12.3">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.14.5">
+    <archive path="/Users/allapoplavskaa/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.60.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-handler-proxy:4.1.60.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-os:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-os/4.13.0/selenium-os-4.13.0.jar" />
+  </library>
+  <library name="Maven: com.typesafe.netty:netty-reactive-streams:2.0.4">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:2.0.9">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.13.0/selenium-safari-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-junit5:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-junit5/2.24.0/allure-junit5-2.24.0.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents.client5:httpclient5:5.2.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Maven: com.codeborne:selenide:6.19.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/codeborne/selenide/6.19.1/selenide-6.19.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:failureaccess:1.0.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-test-filter:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-test-filter/2.24.0/allure-test-filter-2.24.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar" />
+  </library>
+  <library name="Maven: com.google.auto.service:auto-service-annotations:1.1.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.21.1">
+    <archive path="/Users/allapoplavskaa/.m2/repository/com/google/errorprone/error_prone_annotations/2.21.1/error_prone_annotations-2.21.1.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-api/4.13.0/selenium-api-4.13.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-model:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-model/2.24.0/allure-model-2.24.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v115:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v115/4.13.0/selenium-devtools-v115-4.13.0.jar" />
+  </library>
+  <library name="Maven: io.qameta.allure:allure-selenide:2.24.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/qameta/allure/allure-selenide/2.24.0/allure-selenide-2.24.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-json:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-json/4.13.0/selenium-json-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.13.0/selenium-edge-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.3.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v117:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v117/4.13.0/selenium-devtools-v117-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.13.0/selenium-ie-driver-4.13.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.10.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/junit/platform/junit-platform-engine/1.10.0/junit-platform-engine-1.10.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-http:4.13.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/org/seleniumhq/selenium/selenium-http/4.13.0/selenium-http-4.13.0.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-codec:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-codec/4.1.96.Final/netty-codec-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-buffer:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-buffer/4.1.96.Final/netty-buffer-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-classes-kqueue:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.96.Final/netty-transport-classes-kqueue-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-common:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-common/4.1.96.Final/netty-common-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport/4.1.96.Final/netty-transport-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-transport-native-kqueue:4.1.96.Final">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.96.Final/netty-transport-native-kqueue-4.1.96.Final.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.28.0">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-extension-incubator:1.28.0-alpha">
+    <archive path="/Users/allapoplavskaa/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar" />
+  </library>
+  <library name="Python 3.9 interpreter library">
+    <archive path="/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9" />
+    <archive path="/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload" />
+    <archive path="/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages" />
+    <archive path="/Users/allapoplavskaa/Library/Caches/JetBrains/Aqua2022.3/python_stubs/-2066100795" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/python-skeletons" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stdlib" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/six" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/boto" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/mock" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pytz" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/toml" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/first" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/fpdf2" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/ldap3" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/polib" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/redis" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/regex" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/retry" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/ujson" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/bleach" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/caldav" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/docopt" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/hdbcli" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/invoke" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/passpy" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Pillow" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/psutil" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pycurl" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pynput" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pysftp" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/PyYAML" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/stripe" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/chevron" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/passlib" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyaudio" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/PyMySQL" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyvmomi" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/slumber" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/tzlocal" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/vobject" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/aiofiles" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/colorama" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/croniter" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/docutils" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/html5lib" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/httplib2" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/jmespath" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Markdown" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/oauthlib" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/openpyxl" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/paramiko" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/psycopg2" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyflakes" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Pygments" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/requests" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/tabulate" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/toposort" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/waitress" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/braintree" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/decorator" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/playsound" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/ttkthemes" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/cachetools" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/commonmark" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/dateparser" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Deprecated" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/jsonschema" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Send2Trash" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/setuptools" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/simplejson" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/entrypoints" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-2020" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/mysqlclient" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/opentracing" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pep8-naming" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/python-nmap" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/editdistance" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/click-spinner" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/humanfriendly" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/python-gflags" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/python-slugify" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/singledispatch" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings" />
+    <archive path="/Applications/Aqua 2023.3 EAP.app/Contents/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports" />
+  </library>
+</eclipse-userlibraries>
+
