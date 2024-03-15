@@ -12,8 +12,15 @@ public class ProfileManagementPage {
 
     private static WebDriver driver;
 
+    //TODO change ID for all buttons
+    @FindBy(css = "input[name='phone']")
+    private WebElement phoneNumberIn2faField;
     @FindBy(css = "button[type='submit']")
     private WebElement sendCodeButton;
+
+    @FindBy(css = "button[type='button']")
+    private WebElement editPersonalInfoButton;
+    @FindBy(css =  )
 
     public ProfileManagementPage(WebDriver driver) {
         PageFactory.initElements(driver, this);

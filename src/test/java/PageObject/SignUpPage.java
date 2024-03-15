@@ -7,19 +7,19 @@ import org.openqa.selenium.support.PageFactory;
 
 //page_url = https://cp.dev.paynocchio.com/sign-up/
 public class SignUpPage {
-    @FindBy(xpath = "//*[@id=\":rb:\"]")
+    @FindBy(css = "input[name='firstName']")
     private WebElement firstNameField;
-    @FindBy(xpath = "//*[@id=\":rc:\"]")
+    @FindBy(css = "input[name='lastName']")
     private WebElement lastNameField;
-    @FindBy(xpath = "//*[@id=\":rd:\"]")
+    @FindBy(css = "input[name='email']")
     private WebElement emailField;
-    @FindBy(xpath = "//*[@id=\":rf:\"]")
+    @FindBy(css = "input[name='phone']")
     private WebElement phoneField;
-    @FindBy(xpath = "//*[@id=\":rg:\"]\n")
+    @FindBy(css = "input[name='organizationName']")
     private WebElement organizationNameField;
-    @FindBy(xpath = "//*[@id=\"root\"]/div[1]/div/div[2]/div/form/div/div[7]/span/input")
+    @FindBy(css = "input[name='termOfUse']")
     private WebElement checkboxTermsAndCond;
-    @FindBy(xpath = "//*[@id=\"root\"]/div[1]/div/div[2]/div/form/div/div[8]/button\n")
+    @FindBy(css = "button[type='button']")
     private WebElement continueButton;
 
     @FindBy(css = "input[name='password']")
@@ -47,13 +47,11 @@ public class SignUpPage {
     }
     public void submit() {
         //TODO verify submit or click on checkbox required
-        checkboxTermsAndCond.submit();
+        checkboxTermsAndCond.click();
         continueButton.submit();
     }
     public void sendKeyPassword(String text) {
         passwordField.sendKeys(text);
-    }
-    public void sendKeyConfirmPassword(String text) {
         confirmPassword.sendKeys(text);
     }
 }
