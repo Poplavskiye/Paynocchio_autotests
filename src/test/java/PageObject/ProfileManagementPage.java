@@ -20,7 +20,6 @@ public class ProfileManagementPage {
 
     @FindBy(css = "button[type='button']")
     private WebElement editPersonalInfoButton;
-    @FindBy(css =  )
 
     public ProfileManagementPage(WebDriver driver) {
         PageFactory.initElements(driver, this);
