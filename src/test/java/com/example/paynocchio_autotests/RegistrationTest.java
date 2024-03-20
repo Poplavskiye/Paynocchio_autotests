@@ -42,8 +42,7 @@ public class RegistrationTest {
         signUpPage.sendKeyPhone("(999)-901-2390");
         signUpPage.sendKeyOrganization("Organization");
         signUpPage.submit();
-        //wait.until(ExpectedConditions.visibilityOf();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.elementToBeClickable( By.cssSelector("input[name='password']")));
         signUpPage.sendKeyPassword(myPassword);
         signUpPage.submit();
         wait.until(ExpectedConditions.urlToBe("https://cp.dev.paynocchio.com/sign-up-success"));
