@@ -44,7 +44,7 @@ public class ApiTestAuthorization {
                 .body("access_token", is(notNullValue()));
     }
     @Test
-    @DisplayName("Input wrong password during login")
+    @DisplayName("[NEGATIVE] Input wrong password during login")
     public void invalidAuthorizationByPostApi() {
         String email = "i.poplavsky+29@paynocchio.com";
         String password = "Qwerye1!0988";
@@ -67,13 +67,28 @@ public class ApiTestAuthorization {
     @DisplayName("Logout after authorization check")
     public void logOutAfterAuthorization() {
         LoginForNextTests loginForNextTests = new LoginForNextTests();
-        loginForNextTests.loginForNextTest("i.poplavsky+29@paynocchio.com", "Qwerye1!0988");
+        loginForNextTests.loginForNextTest("i.poplavsky+29@paynocchio.com", "Qwerye1!2345");
         given().contentType("application/json")
                 .when()
-                .post(baseURI + "/user/auth/logout")
+                .post(baseURI + "user/auth/logout")
                 .then()
                 .log().all()
                 .assertThat()
                 .statusCode(204);
+    }
+
+        @Test
+        @DisplayName("[NEGATIVE] Logout when not authentocated")
+
+        public void logOutWithNoLogin() {
+            given().contentType("application/json")
+                    .when()
+                    .post(baseURI + "user/auth/logout")
+                    .then()
+                    .log().all()
+                    .assertThat()
+                    .statusCode(401)
+                    .statusLine("HTTP/1.1 401 Unauthorized")
+                    .body("detail", equalTo("Not authenticated"));
     }
 }
