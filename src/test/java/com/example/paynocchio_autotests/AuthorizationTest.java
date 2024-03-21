@@ -45,4 +45,22 @@ public class AuthorizationTest {
             signInPage.submit();
             wait.until(ExpectedConditions.urlToBe("https://cp.dev.paynocchio.com/profile-management"));
             Assertions.assertEquals(expectedResult, driver.getCurrentUrl(), "Authorization failed");}
+        @Test
+        public void logoutFromProfile() {
+            SignInPage signInPage = new SignInPage(driver);
+            ProfileManagementPage profileManagementPage = new ProfileManagementPage(driver);
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+            String url = "https://cp.dev.paynocchio.com/sign-in";
+            driver.get("https://cp.dev.paynocchio.com/sign-in");
+            String expectedResult = "https://cp.dev.paynocchio.com/profile-management";
+            signInPage.sendKeyEmail("i.poplavsky+29@paynocchio.com");
+            signInPage.sendKeyPassword("Qwerye1!2345");
+            signInPage.submit();
+            wait.until(ExpectedConditions.urlToBe("https://cp.dev.paynocchio.com/profile-management"));
+            Assertions.assertEquals(expectedResult, driver.getCurrentUrl(), "Authorization failed");
+            profileManagementPage.clickOnLogoutButton();
+            wait.until(ExpectedConditions.urlToBe("https://cp.dev.paynocchio.com/sign-in"));
+            Assertions.assertEquals("https://cp.dev.paynocchio.com/sign-in", driver.getCurrentUrl(), "Logout failed");
     }
+
+}

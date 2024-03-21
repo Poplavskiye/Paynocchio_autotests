@@ -1,11 +1,15 @@
 package PageObject;
 
+import com.example.paynocchio_autotests.AllureLogger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.slf4j.LoggerFactory;
+
 // page_url = https://cp.dev.paynocchio.com/sign-in/
 public class SignInPage {
+    private final AllureLogger LOG = new AllureLogger(LoggerFactory.getLogger(ProfileManagementPage.class));
     private static WebDriver driver;
     @FindBy(css = "input[name='email']")
     private WebElement emailField;
@@ -18,17 +22,16 @@ public class SignInPage {
     public SignInPage(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
-    public void sendKey(){
-        System.out.println("Email and password inputed: \"i.poplavsky+29@paynocchio.com\"," +
-                " \"Qwerye1!2345\"");
-    }
     public void sendKeyEmail(String text) {
         emailField.sendKeys(text);
+        LOG.info("Input email");
     }
     public void sendKeyPassword(String text) {
         passwordField.sendKeys(text);
+        LOG.info("Input password");
     }
     public void submit(){
         continueButton.submit();
+        LOG.info("Click on 'Continue' button");
     }
 }
