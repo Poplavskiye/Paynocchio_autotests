@@ -1,4 +1,5 @@
 package ApiTests;
+import PageObject.LoginForNextTests;
 import groovyjarjarantlr4.v4.runtime.misc.NotNull;
 import io.qameta.allure.Step;
 import io.restassured.RestAssured;
@@ -65,21 +66,8 @@ public class ApiTestAuthorization {
     @Test
     @DisplayName("Logout after authorization check")
     public void logOutAfterAuthorization() {
-        String email = "i.poplavsky+29@paynocchio.com";
-        String password = "Qwerye1!2345";
-        Map<String, String> loginRequest = new HashMap<>();
-        loginRequest.put("email", email);
-        loginRequest.put("password", password);
-        loginRequest.put("device", "desktop");
-        given().contentType("application/json")
-                .body(loginRequest)
-                .when()
-                .post(baseURI + "user/auth/login")
-                .then()
-                .log().all();
-                //.assertThat()
-                //.statusCode(200)
-                //.body("access_token", is(notNullValue()));
+        LoginForNextTests loginForNextTests = new LoginForNextTests();
+        loginForNextTests.loginForNextTest("i.poplavsky+29@paynocchio.com", "Qwerye1!0988");
         given().contentType("application/json")
                 .when()
                 .post(baseURI + "/user/auth/logout")

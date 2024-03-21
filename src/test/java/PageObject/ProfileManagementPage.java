@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 // page_url = https://cp.dev.paynocchio.com/sign-in/
 public class ProfileManagementPage {
     private final AllureLogger LOG = new AllureLogger(LoggerFactory.getLogger(ProfileManagementPage.class));
-    //TODO change ID for all buttons
     @FindBy(css = "input[id=\":r4:\"]")
     private WebElement phoneNumberIn2faField;
     @FindBy(css = "button[id='btn-2fa-send-code']")
