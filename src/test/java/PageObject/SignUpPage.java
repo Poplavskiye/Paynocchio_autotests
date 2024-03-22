@@ -1,12 +1,15 @@
 package PageObject;
 
+import com.example.paynocchio_autotests.AllureLogger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.slf4j.LoggerFactory;
 
 //page_url = https://cp.dev.paynocchio.com/sign-up/
 public class SignUpPage {
+    private final AllureLogger LOG = new AllureLogger(LoggerFactory.getLogger(ProfileManagementPage.class));
     @FindBy(css = "input[name='firstName']")
     private WebElement firstNameField;
     @FindBy(css = "input[name='lastName']")
@@ -32,6 +35,7 @@ public class SignUpPage {
     }
     public void sendKeyFirstName(String text){
         firstNameField.sendKeys(text);
+        LOG.info("Input first name");
     }
     public void sendKeyLastName(String text) {
         lastNameField.sendKeys(text);
